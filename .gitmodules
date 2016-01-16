@@ -1,0 +1,6 @@
+[submodule "ios"]
+	path = ios
+	url = git@github.com:igorcferreira/ICFHyperRecipes.git
+[submodule "server"]
+	path = server
+	url = git@github.com:igorcferreira/hyper-recipes.git
